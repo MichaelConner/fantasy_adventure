@@ -26,7 +26,7 @@ public class FireballTest {
 
     @Test
     public void canAttack(){
-        assertEquals(12, fireball.getDamage());
+        assertEquals(12, fireball.cast());
     }
 
 }

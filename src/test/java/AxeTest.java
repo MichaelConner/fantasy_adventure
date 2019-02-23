@@ -26,7 +26,7 @@ public class AxeTest {
 
     @Test
     public void canAttack(){
-        assertEquals(12, axe.getDamage());
+        assertEquals(12, axe.attack());
     }
 
 }

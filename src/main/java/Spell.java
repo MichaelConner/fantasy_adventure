@@ -1,8 +1,8 @@
-public abstract class Weapon {
+public abstract class Spell implements ISpell{
 
     private int damage;
 
-    public Weapon(int damage) {
+    public Spell(int damage) {
         this.damage = damage;
     }
 
@@ -14,7 +14,7 @@ public abstract class Weapon {
         this.damage = damage;
     }
 
-    public int attack(){
+    public int cast(){
         return getDamage();
     }
 

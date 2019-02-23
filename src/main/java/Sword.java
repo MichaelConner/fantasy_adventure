@@ -4,8 +4,4 @@ public class Sword extends Weapon implements IWeapon{
         super(damage);
     }
 
-    public int attack(){
-        return getDamage();
-    }
-
 }

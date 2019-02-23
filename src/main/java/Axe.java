@@ -4,9 +4,5 @@ public class Axe extends Weapon implements IWeapon {
         super(damage);
     }
 
-    public int attack(){
-        return getDamage();
-    }
-
 }
 

@@ -14,7 +14,7 @@ public class BarbarianTest {
         sword = new Sword(12);
         claymore = new Sword(20);
 
-        barbarian = new Barbarian("Clargon The Terrible", 20,sword);
+        barbarian = new Barbarian("Clargon The Terrible", 20, sword);
     }
 
     @Test
@@ -54,6 +54,5 @@ public class BarbarianTest {
     public void canAttack(){
         assertEquals(12, barbarian.attack());
     }
-
 
 }

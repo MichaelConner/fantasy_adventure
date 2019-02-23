@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61deda47-adec-4167-ac36-ad663e5dd955" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/FireballTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FireballTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="61deda47-adec-4167-ac36-ad663e5dd955" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -28,22 +26,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="35" />
+          <entry key="java" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="35" />
+          <entry key="JAVA" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2498" />
+          <entry key="java" value="2814" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2498" />
+          <entry key="JAVA" value="2814" />
         </counts>
       </usages-collector>
     </session>
@@ -62,35 +60,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Spell.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/IDefend.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Sidekick.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Dragon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/FireballTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/DragonTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Fireball.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="36" selection-start-column="36" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/LightningBoltTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="375">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -410,8 +417,6 @@
         <option value="$PROJECT_DIR$/src/test/java/OrcTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Orc.java" />
         <option value="$PROJECT_DIR$/src/main/java/IWeapon.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SwordTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/AxeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Barbarian.java" />
         <option value="$PROJECT_DIR$/src/main/java/Fighter.java" />
         <option value="$PROJECT_DIR$/src/test/java/BarbarianTest.java" />
@@ -429,6 +434,12 @@
         <option value="$PROJECT_DIR$/src/main/java/LightningBolt.java" />
         <option value="$PROJECT_DIR$/src/test/java/LightningBoltTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/FireballTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SwordTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/AxeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IDefend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sidekick.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dragon.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DragonTest.java" />
       </list>
     </option>
   </component>
@@ -493,7 +504,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550956290510" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550957006633" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -536,15 +547,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_FantasyHomework_test - 2019.02.23 at 20h 24m 50s.xml">
-      <configuration name="All in FantasyHomework_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_FantasyHomework_test - 2019.02.23 at 20h 27m 11s.xml">
-      <configuration name="All in FantasyHomework_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_FantasyHomework_test - 2019.02.23 at 20h 36m 48s.xml">
-      <configuration name="All in FantasyHomework_test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_FantasyHomework_test - 2019.02.23 at 20h 39m 22s.xml">
       <configuration name="All in FantasyHomework_test" configurationId="JUnit" />
     </history-entry>
@@ -564,6 +566,15 @@
       <configuration name="All in FantasyHomework_test" configurationId="JUnit" />
     </history-entry>
     <history-entry file="All_in_FantasyHomework_test - 2019.02.23 at 21h 08m 04s.xml">
+      <configuration name="All in FantasyHomework_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_FantasyHomework_test - 2019.02.23 at 21h 10m 51s.xml">
+      <configuration name="All in FantasyHomework_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_FantasyHomework_test - 2019.02.23 at 21h 11m 16s.xml">
+      <configuration name="All in FantasyHomework_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_FantasyHomework_test - 2019.02.23 at 21h 11m 31s.xml">
       <configuration name="All in FantasyHomework_test" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -623,13 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SwordTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="31" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -745,20 +749,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/AxeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="24" selection-end-line="31" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Spell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LightningBolt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -773,17 +763,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SwordTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AxeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/LightningBoltTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
+        <state relative-caret-position="375">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/FireballTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
+        <state relative-caret-position="390">
           <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Spell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IDefend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sidekick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dragon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DragonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>
     </entry>

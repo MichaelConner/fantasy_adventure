@@ -1,3 +1,5 @@
+import Player.Barbarian;
+import Weapons.Sword;
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
@@ -24,8 +26,8 @@ public class BarbarianTest {
 
     @Test
     public void canSetName(){
-        barbarian.setName("Conan The Barbarian");
-        assertEquals("Conan The Barbarian", barbarian.getName());
+        barbarian.setName("Conan");
+        assertEquals("Conan", barbarian.getName());
     }
 
     @Test

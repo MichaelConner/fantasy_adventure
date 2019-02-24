@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61deda47-adec-4167-ac36-ad663e5dd955" name="Default Changelist" comment="" />
+    <list default="true" id="61deda47-adec-4167-ac36-ad663e5dd955" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Player/Cleric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Player/Cleric.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -28,37 +30,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="85" />
+          <entry key="java" value="88" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="85" />
+          <entry key="JAVA" value="88" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4422" />
+          <entry key="java" value="4713" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4422" />
+          <entry key="JAVA" value="4713" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Player/Cleric.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/HealingItems/HealingItem.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -69,37 +62,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/HealingPotionTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Player/Cleric.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/HealingItems/HealingPotion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/HealingHerbTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+            <state relative-caret-position="360">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/HealingItems/HealingHerb.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PriestTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/BarbarianTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="49" column="5" lean-forward="true" selection-end-line="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Player/Priest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -457,10 +450,12 @@
         <option value="$PROJECT_DIR$/src/main/java/HealingItems/HealingItems.java" />
         <option value="$PROJECT_DIR$/src/main/java/HealingItems/HealingPotion.java" />
         <option value="$PROJECT_DIR$/src/main/java/HealingItems/HealingItem.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Player/Cleric.java" />
         <option value="$PROJECT_DIR$/src/test/java/HealingPotionTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/HealingHerbTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/HealingItems/HealingHerb.java" />
+        <option value="$PROJECT_DIR$/src/test/java/HealingHerbTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Player/Cleric.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Player/Priest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PriestTest.java" />
       </list>
     </option>
   </component>
@@ -512,14 +507,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="HealingItems" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FantasyHomework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FantasyHomework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Player" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -550,7 +537,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551038881139" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551039468740" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -593,12 +580,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_FantasyHomework_test - 2019.02.23 at 21h 11m 31s.xml">
-      <configuration name="All in FantasyHomework_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_FantasyHomework_test - 2019.02.23 at 21h 22m 27s.xml">
-      <configuration name="All in FantasyHomework_test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_FantasyHomework_test - 2019.02.23 at 21h 22m 37s.xml">
       <configuration name="All in FantasyHomework_test" configurationId="JUnit" />
     </history-entry>
@@ -623,6 +604,12 @@
     <history-entry file="All_in_FantasyHomework_test - 2019.02.24 at 19h 49m 24s.xml">
       <configuration name="All in FantasyHomework_test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_FantasyHomework_test - 2019.02.24 at 20h 04m 48s.xml">
+      <configuration name="All in FantasyHomework_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_FantasyHomework_test - 2019.02.24 at 20h 08m 03s.xml">
+      <configuration name="All in FantasyHomework_test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="23" width="1440" height="806" extended-state="6" />
@@ -637,7 +624,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32913166" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3282123" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3277311" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -646,7 +633,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32913166" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3282123" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3277311" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -824,13 +811,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BarbarianTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="58" lean-forward="true" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Player/Wizard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -908,31 +888,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Player/Cleric.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/HealingItems/HealingHerb.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HealingItems/HealingItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/HealingPotionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/HealingHerbTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        <state relative-caret-position="315">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -943,10 +909,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HealingItems/HealingHerb.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/HealingPotionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HealingItems/HealingItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Player/Cleric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Player/Priest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BarbarianTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="49" column="5" lean-forward="true" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PriestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
         </state>
       </provider>
     </entry>

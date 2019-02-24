@@ -4,19 +4,23 @@ import Interfaces.IHeal;
 
 public abstract class Cleric extends Player implements IHeal {
 
-    IHeal potion;
+    IHeal healingItem;
 
-    public Cleric(String name, int health, IHeal potion) {
+    public Cleric(String name, int health, IHeal healingItem) {
         super(name, health);
-        this.potion = potion;
+        this.healingItem = healingItem;
     }
 
-    public IHeal getHeal() {
-        return potion;
+    public IHeal getHealingItem() {
+        return healingItem;
     }
 
-    public void setHeal(IHeal potion) {
-        this.potion = potion;
+    public void setHealingItem(IHeal healingItem) {
+        this.healingItem = healingItem;
+    }
+
+    public int heal(){
+        return healingItem.heal();
     }
 
 }

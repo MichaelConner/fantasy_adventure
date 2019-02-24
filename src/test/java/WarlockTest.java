@@ -69,6 +69,11 @@ public class WarlockTest {
     }
 
     @Test
+    public void canHaveBuddyDefend(){
+        assertEquals(3, warlock.defend());
+    }
+
+    @Test
     public void canCastSpell(){
         assertEquals(12, warlock.cast());
     }
